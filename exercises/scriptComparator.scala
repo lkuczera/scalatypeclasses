@@ -1,4 +1,3 @@
-
 // 1
 Comparator.compare(1,1)
 Comparator.compare(1,0)
@@ -17,8 +16,8 @@ Comparator.max(strings)
 Comparator.min(numbers)(Comparator.ComparatorIntAbs)
 Comparator.max(numbers)(Comparator.ComparatorIntAbs)
 import Comparator.ComparatorIntAbs
-Comparator.min(numbers)(Comparator.ComparatorIntAbs)
-Comparator.max(numbers)(Comparator.ComparatorIntAbs)
+Comparator.min(numbers)
+Comparator.max(numbers)
 // 6
 Comparator.min(strings)(Comparator.ComparatorStringIgnoreCase)
 Comparator.max(strings)(Comparator.ComparatorStringIgnoreCase)
